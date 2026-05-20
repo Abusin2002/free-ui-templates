@@ -10,10 +10,10 @@ This repository contains multiple reusable frontend templates, dashboards, and U
 
 | Template | Live Demo |
 |----------|-----------|
-| GoldNest Admin | [Live Link]([YOUR_LINK_HERE](https://free-ui-templates-eight.vercel.app)) |
-| Luxury Login UI |[coming soon] |
-| Dashboard Template | [coming soon] |
-| Jewellery Poster UI | [coming soon] |
+| GoldNest Admin | [Live Link](https://free-ui-templates-eight.vercel.app) |
+| Luxury Login UI |[coming soon]  |
+| Dashboard Template | [coming soon]|
+| Jewellery Poster UI | [coming soon]  |
 
 > Live links will be updated as templates are deployed.
 
